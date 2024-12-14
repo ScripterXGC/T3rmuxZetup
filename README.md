@@ -8,3 +8,7 @@ and after completing the cloning:
 `cd T3rmuxZetup
 chmod +x t3rmuxzetup.sh
 bash t3rmuxzetup.sh`
+
+# Updates
+2024-12-13 T3rmuxZetup v0.1
+2024-12-14 T3rmuxZetup v0.2
